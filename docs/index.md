@@ -1,5 +1,5 @@
 ## Welcome to RDS BIRUSOD 
-### This is a place where I store my [_Tidytuesday_[](https://github.com/rfordatascience/tidytuesday) codes.
+### This is a place where I store my [_Tidytuesday_](https://github.com/rfordatascience/tidytuesday) codes.
 
 You can use the [editor on GitHub](https://github.com/birusod/rdsblog/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
