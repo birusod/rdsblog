@@ -4,6 +4,7 @@ description: |
   RDS Birusod
 output_dir: "_site"
 navbar:
+  logo: profile3.jpg
   right:
     - text: "Home"
       href: index.html
