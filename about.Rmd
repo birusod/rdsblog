@@ -1,7 +1,8 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  This is a place where I store my [_Tidytuesday_](https://github.com/rfordatascience/tidytuesday) codes.
+
 ---
 
 ```{r setup, include=FALSE}
